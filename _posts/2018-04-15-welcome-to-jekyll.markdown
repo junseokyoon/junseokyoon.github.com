@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-04-15 22:22:35 +0900
+date:   2018-04-15
+author_profile: true
 categories: jekyll update
 ---
 
