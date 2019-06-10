@@ -9,4 +9,4 @@ tag: ios
 관련 정보 누락?
 
 링크 연동 테스트 - linked post
-https://mmistakes.github.io/minimal-mistakes/post%20formats/post-link/#top
+[참고 링크](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-link/#top)
